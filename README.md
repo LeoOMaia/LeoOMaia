@@ -1,10 +1,10 @@
 ## Hi there 👋
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; justify-content: center; gap: 10px; width: 500px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeoOMaia&theme=gotham&show_icons=true&hide_border=false&count_private=true" style="width: 48%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoOMaia&theme=gotham&hide_border=false" style="width: 48%;"/>
-  </div>
-  <div style="text-align: center; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoOMaia&theme=gotham&show_icons=true&hide_border=false&layout=compact" style="width: 500px; display: inline-block;"/>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoOMaia&theme=gotham&hide_border=false" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoOMaia&theme=gotham&show_icons=true&hide_border=false&layout=compact" width="35%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoOMaia&theme=gotham&show_icons=true&hide_border=false&count_private=true" width="49%">
+</p>
+
